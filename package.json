@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "@radix-ui/colors": "latest",
+    "@radix-ui/react-icons": "latest",
+    "@radix-ui/react-navigation-menu": "latest",
+    "@stitches/react": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "keywords": [],
+  "name": "radix-ui-nav-menu",
+  "description": null,
+  "version": "0.0.2",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
